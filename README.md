@@ -1,5 +1,5 @@
+# Name: Raymond Wang
 # Lab8_Starter
-
 ## Check your understanding q's (FILL OUT)
 1. In your own words: Where would you fit your automated tests in your Bujo project development pipeline? 1. within a Github action that runs whenever code is pushed
 
