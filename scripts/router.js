@@ -88,6 +88,6 @@ export function pushToHistory(state, entryNum) {
       history.pushState({}, '', './');
   }
   //help see what is returned
-  console.log(history.state.page);
+  console.log(document.querySelector('body').className);
   return history;
 }

@@ -245,7 +245,6 @@
   "scripts": {
     "test": "jest --coverage"
   },
-  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/WangRaymond-Source/Lab8.git"
@@ -259,6 +258,6 @@
   "jest": {
     "preset": "jest-puppeteer",
     "verbose": true
- },
+  },
   "homepage": "https://github.com/WangRaymond-Source/Lab8#readme"
 }
